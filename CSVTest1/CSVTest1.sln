@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSVTest1", "CSVTest1.csproj", "{83174169-A6F5-49C6-B075-2304575A832E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreAPI", "..\CoreAPI\CoreAPI.csproj", "{43063ED6-7AD0-40A8-928E-D12A05CA0323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoucherAPI", "..\VoucherAPI\VoucherAPI.csproj", "{126D752C-2414-4041-9AA2-0D3CC938EB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83174169-A6F5-49C6-B075-2304575A832E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83174169-A6F5-49C6-B075-2304575A832E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83174169-A6F5-49C6-B075-2304575A832E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83174169-A6F5-49C6-B075-2304575A832E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43063ED6-7AD0-40A8-928E-D12A05CA0323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43063ED6-7AD0-40A8-928E-D12A05CA0323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43063ED6-7AD0-40A8-928E-D12A05CA0323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43063ED6-7AD0-40A8-928E-D12A05CA0323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126D752C-2414-4041-9AA2-0D3CC938EB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126D752C-2414-4041-9AA2-0D3CC938EB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126D752C-2414-4041-9AA2-0D3CC938EB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126D752C-2414-4041-9AA2-0D3CC938EB37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19A59619-04FD-48CB-BDCA-4DC50D800A13}
+	EndGlobalSection
+EndGlobal
